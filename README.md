@@ -1,2 +1,2 @@
-## Snek
-# Practicing some JS with a coding challenge from freeCodeCamp
+# Snek
+## Practicing some JS with a coding challenge from freeCodeCamp
